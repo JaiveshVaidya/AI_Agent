@@ -123,8 +123,10 @@ The application can be customized through the `config.py` file:
 1. Visit [Google AI Studio](https://makersuite.google.com/app/apikey)
 2. Sign in with your Google account
 3. Create a new API key
-4. Copy the key and paste it in your `.env` file
-5. Keep your API key secure and never share it publicly
+4. Create a folder name '.env' file in job_search_ai and paste this "# Add your Gemini API key here
+GEMINI_API_KEY=YOURAPIKEYHERE"
+5. Copy the key and paste it in your `.env` file
+6. Keep your API key secure and never share it publicly
 
 ## Troubleshooting 🔧
 
